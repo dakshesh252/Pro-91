@@ -7,6 +7,6 @@
 
     localStorage.setItem("user-name : " , user_name );
 
-    window.location="index.html";
+    window.location="kwitter.html";
 
  }
